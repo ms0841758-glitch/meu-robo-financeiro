@@ -1,0 +1,13 @@
+{
+  "name": "robo-whatsapp",
+  "version": "1.0.0",
+  "main": "whatsapp_bridge.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "start": "node whatsapp_bridge.js"
+  }
+}
