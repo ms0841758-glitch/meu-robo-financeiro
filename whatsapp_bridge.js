@@ -7,8 +7,9 @@ app.use(express.json());
 // --- CONFIGURAÇÃO DO SEU ROBÔ ---
 // Substitua o número abaixo pelo seu celular (ex: whatsapp:+5521999999999)
 // e o ID Sync pelo código que aparece na tela do seu index.html
-const WHATSAPP_USER_MAPPING = {
+    "const WHATSAPP_USER_MAPPING = {
     "whatsapp:+5521982207815": "USER_5FVMZ2TTG"
+};"
 };
 // --------------------------------
 
